@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently a backend dev.<br>i wish i'd committed more .<br>if you guessed i meant Github, yeah that is a good guess.<br>really want to learn vim motion and linux.<br>like reading books. 
+a backend dev.<br>i wish i'd committed more .<br>if you guessed i meant Github, yeah that is a good guess.<br>really want to learn vim motion and linux.<br>like reading books. 
 
 
 ## 🌐 Socials:
