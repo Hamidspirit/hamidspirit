@@ -1,7 +1,7 @@
 # 💫 About Me:
-a backend dev.<br>i wish i'd committed more .<br>if you guessed i meant Github, yeah that is a good guess.<br>really want to learn vim motion and linux.<br>like reading books. 
+a dev.<br>i wish i'd committed more .<br>if you guessed i meant Github, yeah that is a good guess.<br>like reading books. 
 
-i'm currently working on a OCR and NLP project for medical purposes.<br>i'm also interested in working with C and C++.<br>making an interpreter in my free time.<br>currently learning Go, LM, C.<br>i will one day make a video game.<br>
+i'm currently working on a OCR and NLP project for medical purposes.<br>i'm also interested in working with C <br>currently learning Go, ML, C.<br>i will one day make a video game.<br>
 
 
 ## 🌐 Socials:
